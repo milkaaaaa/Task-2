@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h2{
+    text-align: center;
+    font-size: 22px;
+    width: 320px;
+}
+
+.h2:hover{
+    text-decoration: underline;
+}
+
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    width: 300px;
+
+}
+
+.list{
+    display: flex;
+    background: #333;
+    line-height: 70px;
+    list-style: none;
+}
+
+li{
+    margin-right: 20px;
+    margin-left: 80px;
+    font-weight: 700;
+    font-family: Barlow, sans-serif;
+
+}
+
+
+.navigation{
+    color: lightgrey;
+    text-decoration: none;
+}
+
+li:hover{
+    font-size: 20px;
+}
+
+.left{
+    display: inline-block;
+    width: 280px;
+    margin-left: 100px;
+    margin-top: 30px;
+
+}
+
+.duna{
+    text-align: center;
+    font-family: Playfair Display,serif;
+}
+
+.duna2{
+   height: 450px;
+    width: 317px; 
+}
+
+.center{
+    display: inline-block;
+    width: 277px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.photo{
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.venom2{
+height: 450px;
+    width: 317px;
+}
+
+.venom{
+    display: inline-block;
+    text-align: center;
+    font-family: Playfair Display,serif;
+}
+
+.thg{
+    display: flex;
+}
+
+.right{
+    display: inline-block;
+    width: 276px;
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+
+.gnev{
+    text-align: center;
+    font-size: 16px;
+    font-family: Playfair Display,serif;
+}
+
+
+.footer{
+    background: black;
+    line-height: 70px;
+    text-align: center;
+}
+
+.yundex{
+    color: lightgrey;
+}
